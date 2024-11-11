@@ -65,7 +65,7 @@
    3. Enter your proxies file named of `proxy.txt`.
    4. Open https://app.getgrass.io/dashboard and click refresh.
 
-# Donations For Bot
+# Supporting 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 - SOL : EzygNQeDii8wRjgBoSfQGEXCMsCsNByN3v8UWNCmY2Mz
 - BTC : bc1ph5r3gvwkyjchqka236j720qnhxmhzn565qpm226kdjrj47p89ghslq3u5p
