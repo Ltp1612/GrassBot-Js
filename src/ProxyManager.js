@@ -9,10 +9,10 @@ const PROXY_SOURCES = {
   'SERVER 4': 'https://files.ramanode.top/airdrop/grass/server_4.txt',
   'SERVER 5': 'https://files.ramanode.top/airdrop/grass/server_5.txt',
   'SERVER 6': 'https://files.ramanode.top/airdrop/grass/server_6.txt',
-  'SERVER 7': 'https://files.ramanode.top/airdrop/grass/server_6.txt',
-  'SERVER 8': 'https://files.ramanode.top/airdrop/grass/server_6.txt',
-  'SERVER 9': 'https://files.ramanode.top/airdrop/grass/server_6.txt',
-  'SERVER 10': 'https://files.ramanode.top/airdrop/grass/server_6.txt',
+  'SERVER 7': 'https://files.ramanode.top/airdrop/grass/server_7.txt',
+  'SERVER 8': 'https://files.ramanode.top/airdrop/grass/server_8.txt',
+  'SERVER 9': 'https://files.ramanode.top/airdrop/grass/server_9.txt',
+  'SERVER 10': 'https://files.ramanode.top/airdrop/grass/server_10.txt',
 };
 
 async function fetchProxies(url) {
