@@ -8,16 +8,14 @@
     "start": "node index.js"
   },
   "keywords": [
-    "WebSocket",
+    "farming",
     "proxy",
-    "HTTP",
-    "SOCKS",
-    "bot",
-    "getgrass",
-    "airdrops",
-    "farming"
+    "Bot",
+    "Crypto",
+    "airdrop",
+    "grass"
   ],
-  "author": "dante4rt",
+  "author": "Gangster",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.7",
