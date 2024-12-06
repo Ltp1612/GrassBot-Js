@@ -4,11 +4,11 @@ const delay = async (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function displayHeader() {
     process.stdout.write('\x1Bc');
-    console.log('========================================'.cyan);
-    console.log('=              Grass Bot               ='.cyan);
-    console.log('=           Gangster of GPC            ='.cyan);
-    console.log('=            Gay Par Chink             ='.cyan);
-    console.log('========================================'.cyan);
+    console.log('========================================'.yellow);
+    console.log('=               Grass Bot              ='.green);
+    console.log('=    Gangstar Of Shortcut For Life     ='.red);
+    console.log('=              GPC FAMILY              ='.blue);
+    console.log('========================================'.yellow);
     console.log();
   }
 
